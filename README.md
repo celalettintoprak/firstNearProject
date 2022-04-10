@@ -2,6 +2,8 @@
 
 https://explorer.testnet.near.org/transactions/7RXXrou7xnvfadrwyJqBV3MDJv6fkkhezuu3RWdFtKdt
 
+![Tux, the Linux mascot](/Ekran Resmi 2022-04-10 20.51.34.png)
+
 This is a good project to use as a starting point for your AssemblyScript project.
 
 ## Samples
