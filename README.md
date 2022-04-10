@@ -1,5 +1,7 @@
 # `near-sdk-as` Starter Kit
 
+https://explorer.testnet.near.org/transactions/7RXXrou7xnvfadrwyJqBV3MDJv6fkkhezuu3RWdFtKdt
+
 This is a good project to use as a starting point for your AssemblyScript project.
 
 ## Samples
